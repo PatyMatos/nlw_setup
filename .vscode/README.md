@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app que ajuda a rastrear os hábitos.
+O Habits é um app que ajuda a rastrear os meus hábitos.
 
 ## 🔖 Layout
 
